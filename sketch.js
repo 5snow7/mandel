@@ -1,7 +1,7 @@
 let z1,z2;
 let can;
 function setup(){start();textSize(24);
-can=createCanvas(800,500);can.class('bdd');
+can=createCanvas(800,500);can.id("can1");
 can.position(20,20);pixelDensity(1);
 z1=new comp(1.3,.4);
 z2=new comp(-.2,.1);

@@ -1,0 +1,10 @@
+
+		body {border-style:dashed;border-width:10px;
+			border-color:blue;
+			margin:0;
+			padding:10;
+			overflow: hidden;
+		}
+
+#can1{position:absolute;left:500px;top:50px;;border:purple double 15px;}
+#par1{position:absolute;left:900px;width:200px;border:purple double 5px;padding:5px;top:100px;}
